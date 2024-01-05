@@ -1,4 +1,4 @@
- mon_dictionnaire = {
+ {
     "Largeur": 111,
     "Hauteur": 65,
     "Coordonnées X": 15,
