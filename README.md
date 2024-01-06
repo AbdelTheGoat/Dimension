@@ -1,14 +1,14 @@
 {
-  "Largeur": 111,
-  "Largeur2": 92,
-  "Hauteur": 65,
+  "Largeur": 1110,
+  "Largeur2": 900,
+  "Hauteur": 700,
   "Hauteur2": 78,
   "Coordonnées X": 15,
-  "Coordonnées X2": 31,
-  "Coordonnées Y": 146,
-  "Coordonnées Y2": 204,
+  "Coordonnées X2": 0,
+  "Coordonnées Y": 145,
+  "Coordonnées Y2": 11,
   "Rotation": 0,
-  "Rotation2": 180,
+  "Rotation2": 0,
   "Opacité": 100,
-  "Opacité2": 75
+  "Opacité2": 100
 }
