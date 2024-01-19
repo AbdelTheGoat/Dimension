@@ -9,6 +9,6 @@
   "Coordonnées Y2": 100,
   "Rotation": 0,
   "Rotation2": 0,
-  "Opacité": 100,
+  "Opacité": 0,
   "Opacité2": 100
 }
