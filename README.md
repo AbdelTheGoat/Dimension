@@ -2,13 +2,13 @@
 
 {
 "Largeur": 980,
-"Largeur2": 1252,
+"Largeur2": 1380,
 "Hauteur": 1040,
-"Hauteur2": 2228,
+"Hauteur2": 2448,
 "Coordonnées X": 74,
-"Coordonnées X2": -86,
+"Coordonnées X2": -127,
 "Coordonnées Y": 0,
-"Coordonnées Y2": 256,
+"Coordonnées Y2": 103,
 "Rotation": 0,
 "Rotation2": 0,
 "Opacité": 100,
