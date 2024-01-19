@@ -1,11 +1,11 @@
 
 
 {
-"Largeur": 960,
+"Largeur": 980,
 "Largeur2": 536,
-"Hauteur": 1016,
+"Hauteur": 1040,
 "Hauteur2": 948,
-"Coordonnées X": 61,
+"Coordonnées X": 74,
 "Coordonnées X2": 239,
 "Coordonnées Y": 0,
 "Coordonnées Y2": 960,
