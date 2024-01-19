@@ -1,7 +1,7 @@
 {
-  "Largeur": 1110,
-  "Largeur2": 900,
-  "Hauteur": 700,
+  "Largeur": 950,
+  "Largeur2": 700,
+  "Hauteur": 750,
   "Hauteur2": 78,
   "Coordonnées X": 15,
   "Coordonnées X2": 10,
